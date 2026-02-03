@@ -1,0 +1,322 @@
+[
+  {
+    "id": "koikuchi-100",
+    "slug": "koikuchi-shoyu",
+    "type": "koikuchi",
+    "capacity": "100ml",
+    "price": {
+      "ja": "¥450",
+      "en": "$4.50",
+      "ko": "₩5,500"
+    },
+    "priceNumeric": 450,
+    "name": {
+      "ja": "特選濃口醤油",
+      "en": "Premium Dark Soy Sauce",
+      "ko": "특선 진간장"
+    },
+    "description": {
+      "ja": "伝統の木桶仕込みで2年間じっくり熟成させた濃口醤油。深いコクと豊かな香りが特徴です。煮物や照り焼きなど、あらゆる和食に最適です。",
+      "en": "Dark soy sauce aged for 2 years in traditional wooden barrels. Features deep richness and rich aroma. Perfect for all Japanese dishes including stews and teriyaki.",
+      "ko": "전통 나무통에서 2년간 숙성시킨 진간장. 깊은 감칠맛과 풍부한 향이 특징입니다. 조림이나 데리야키 등 모든 일본 요리에 최적입니다."
+    },
+    "ingredients": {
+      "ja": "大豆（国産）、小麦（国産）、食塩",
+      "en": "Soybeans (domestic), Wheat (domestic), Salt",
+      "ko": "대두 (국산), 밀 (국산), 소금"
+    },
+    "allergens": {
+      "ja": "大豆、小麦",
+      "en": "Soybeans, Wheat",
+      "ko": "대두, 밀"
+    }
+  },
+  {
+    "id": "koikuchi-300",
+    "slug": "koikuchi-shoyu",
+    "type": "koikuchi",
+    "capacity": "300ml",
+    "price": {
+      "ja": "¥980",
+      "en": "$9.80",
+      "ko": "₩12,000"
+    },
+    "priceNumeric": 980,
+    "name": {
+      "ja": "特選濃口醤油",
+      "en": "Premium Dark Soy Sauce",
+      "ko": "특선 진간장"
+    },
+    "description": {
+      "ja": "伝統の木桶仕込みで2年間じっくり熟成させた濃口醤油。深いコクと豊かな香りが特徴です。煮物や照り焼きなど、あらゆる和食に最適です。",
+      "en": "Dark soy sauce aged for 2 years in traditional wooden barrels. Features deep richness and rich aroma. Perfect for all Japanese dishes including stews and teriyaki.",
+      "ko": "전통 나무통에서 2년간 숙성시킨 진간장. 깊은 감칠맛과 풍부한 향이 특징입니다. 조림이나 데리야키 등 모든 일본 요리에 최적입니다."
+    },
+    "ingredients": {
+      "ja": "大豆（国産）、小麦（国産）、食塩",
+      "en": "Soybeans (domestic), Wheat (domestic), Salt",
+      "ko": "대두 (국산), 밀 (국산), 소금"
+    },
+    "allergens": {
+      "ja": "大豆、小麦",
+      "en": "Soybeans, Wheat",
+      "ko": "대두, 밀"
+    }
+  },
+  {
+    "id": "koikuchi-500",
+    "slug": "koikuchi-shoyu",
+    "type": "koikuchi",
+    "capacity": "500ml",
+    "price": {
+      "ja": "¥1,480",
+      "en": "$14.80",
+      "ko": "₩18,000"
+    },
+    "priceNumeric": 1480,
+    "name": {
+      "ja": "特選濃口醤油",
+      "en": "Premium Dark Soy Sauce",
+      "ko": "특선 진간장"
+    },
+    "description": {
+      "ja": "伝統の木桶仕込みで2年間じっくり熟成させた濃口醤油。深いコクと豊かな香りが特徴です。煮物や照り焼きなど、あらゆる和食に最適です。",
+      "en": "Dark soy sauce aged for 2 years in traditional wooden barrels. Features deep richness and rich aroma. Perfect for all Japanese dishes including stews and teriyaki.",
+      "ko": "전통 나무통에서 2년간 숙성시킨 진간장. 깊은 감칠맛과 풍부한 향이 특징입니다. 조림이나 데리야키 등 모든 일본 요리에 최적입니다."
+    },
+    "ingredients": {
+      "ja": "大豆（国産）、小麦（国産）、食塩",
+      "en": "Soybeans (domestic), Wheat (domestic), Salt",
+      "ko": "대두 (국산), 밀 (국산), 소금"
+    },
+    "allergens": {
+      "ja": "大豆、小麦",
+      "en": "Soybeans, Wheat",
+      "ko": "대두, 밀"
+    }
+  },
+  {
+    "id": "usukuchi-100",
+    "slug": "usukuchi-shoyu",
+    "type": "usukuchi",
+    "capacity": "100ml",
+    "price": {
+      "ja": "¥450",
+      "en": "$4.50",
+      "ko": "₩5,500"
+    },
+    "priceNumeric": 450,
+    "name": {
+      "ja": "特選淡口醤油",
+      "en": "Premium Light Soy Sauce",
+      "ko": "특선 연간장"
+    },
+    "description": {
+      "ja": "素材の色を活かす淡口醤油。上品な味わいで、お吸い物や茶碗蒸しなど、色を大切にする料理に最適です。塩分は濃口より高めです。",
+      "en": "Light soy sauce that preserves ingredient colors. Elegant flavor, perfect for clear soups and steamed dishes where color is important. Higher salt content than dark soy sauce.",
+      "ko": "재료의 색을 살리는 연간장. 우아한 맛으로 맑은 국이나 계란찜 등 색이 중요한 요리에 최적입니다. 염분은 진간장보다 높습니다."
+    },
+    "ingredients": {
+      "ja": "大豆（国産）、小麦（国産）、食塩",
+      "en": "Soybeans (domestic), Wheat (domestic), Salt",
+      "ko": "대두 (국산), 밀 (국산), 소금"
+    },
+    "allergens": {
+      "ja": "大豆、小麦",
+      "en": "Soybeans, Wheat",
+      "ko": "대두, 밀"
+    }
+  },
+  {
+    "id": "usukuchi-300",
+    "slug": "usukuchi-shoyu",
+    "type": "usukuchi",
+    "capacity": "300ml",
+    "price": {
+      "ja": "¥980",
+      "en": "$9.80",
+      "ko": "₩12,000"
+    },
+    "priceNumeric": 980,
+    "name": {
+      "ja": "特選淡口醤油",
+      "en": "Premium Light Soy Sauce",
+      "ko": "특선 연간장"
+    },
+    "description": {
+      "ja": "素材の色を活かす淡口醤油。上品な味わいで、お吸い物や茶碗蒸しなど、色を大切にする料理に最適です。塩分は濃口より高めです。",
+      "en": "Light soy sauce that preserves ingredient colors. Elegant flavor, perfect for clear soups and steamed dishes where color is important. Higher salt content than dark soy sauce.",
+      "ko": "재료의 색을 살리는 연간장. 우아한 맛으로 맑은 국이나 계란찜 등 색이 중요한 요리에 최적입니다. 염분은 진간장보다 높습니다."
+    },
+    "ingredients": {
+      "ja": "大豆（国産）、小麦（国産）、食塩",
+      "en": "Soybeans (domestic), Wheat (domestic), Salt",
+      "ko": "대두 (국산), 밀 (국산), 소금"
+    },
+    "allergens": {
+      "ja": "大豆、小麦",
+      "en": "Soybeans, Wheat",
+      "ko": "대두, 밀"
+    }
+  },
+  {
+    "id": "usukuchi-500",
+    "slug": "usukuchi-shoyu",
+    "type": "usukuchi",
+    "capacity": "500ml",
+    "price": {
+      "ja": "¥1,480",
+      "en": "$14.80",
+      "ko": "₩18,000"
+    },
+    "priceNumeric": 1480,
+    "name": {
+      "ja": "特選淡口醤油",
+      "en": "Premium Light Soy Sauce",
+      "ko": "특선 연간장"
+    },
+    "description": {
+      "ja": "素材の色を活かす淡口醤油。上品な味わいで、お吸い物や茶碗蒸しなど、色を大切にする料理に最適です。塩分は濃口より高めです。",
+      "en": "Light soy sauce that preserves ingredient colors. Elegant flavor, perfect for clear soups and steamed dishes where color is important. Higher salt content than dark soy sauce.",
+      "ko": "재료의 색을 살리는 연간장. 우아한 맛으로 맑은 국이나 계란찜 등 색이 중요한 요리에 최적입니다. 염분은 진간장보다 높습니다."
+    },
+    "ingredients": {
+      "ja": "大豆（国産）、小麦（国産）、食塩",
+      "en": "Soybeans (domestic), Wheat (domestic), Salt",
+      "ko": "대두 (국산), 밀 (국산), 소금"
+    },
+    "allergens": {
+      "ja": "大豆、小麦",
+      "en": "Soybeans, Wheat",
+      "ko": "대두, 밀"
+    }
+  },
+  {
+    "id": "saishikomi-200",
+    "slug": "saishikomi-shoyu",
+    "type": "saishikomi",
+    "capacity": "200ml",
+    "price": {
+      "ja": "¥1,200",
+      "en": "$12.00",
+      "ko": "₩15,000"
+    },
+    "priceNumeric": 1200,
+    "name": {
+      "ja": "再仕込み醤油",
+      "en": "Double-Brewed Soy Sauce",
+      "ko": "재담금 간장"
+    },
+    "description": {
+      "ja": "醤油で醤油を仕込む贅沢な製法。濃厚な旨味とまろやかな味わいが特徴です。刺身や冷奴など、かけ醤油として最適です。",
+      "en": "Luxurious method of brewing soy sauce with soy sauce. Features rich umami and mellow flavor. Perfect as dipping sauce for sashimi and tofu.",
+      "ko": "간장으로 간장을 담그는 고급 제법. 진한 감칠맛과 부드러운 맛이 특징입니다. 회나 두부 등에 뿌려 먹기에 최적입니다."
+    },
+    "ingredients": {
+      "ja": "大豆（国産）、小麦（国産）、食塩",
+      "en": "Soybeans (domestic), Wheat (domestic), Salt",
+      "ko": "대두 (국산), 밀 (국산), 소금"
+    },
+    "allergens": {
+      "ja": "大豆、小麦",
+      "en": "Soybeans, Wheat",
+      "ko": "대두, 밀"
+    }
+  },
+  {
+    "id": "saishikomi-500",
+    "slug": "saishikomi-shoyu",
+    "type": "saishikomi",
+    "capacity": "500ml",
+    "price": {
+      "ja": "¥2,800",
+      "en": "$28.00",
+      "ko": "₩35,000"
+    },
+    "priceNumeric": 2800,
+    "name": {
+      "ja": "再仕込み醤油",
+      "en": "Double-Brewed Soy Sauce",
+      "ko": "재담금 간장"
+    },
+    "description": {
+      "ja": "醤油で醤油を仕込む贅沢な製法。濃厚な旨味とまろやかな味わいが特徴です。刺身や冷奴など、かけ醤油として最適です。",
+      "en": "Luxurious method of brewing soy sauce with soy sauce. Features rich umami and mellow flavor. Perfect as dipping sauce for sashimi and tofu.",
+      "ko": "간장으로 간장을 담그는 고급 제법. 진한 감칠맛과 부드러운 맛이 특징입니다. 회나 두부 등에 뿌려 먹기에 최적입니다."
+    },
+    "ingredients": {
+      "ja": "大豆（国産）、小麦（国産）、食塩",
+      "en": "Soybeans (domestic), Wheat (domestic), Salt",
+      "ko": "대두 (국산), 밀 (국산), 소금"
+    },
+    "allergens": {
+      "ja": "大豆、小麦",
+      "en": "Soybeans, Wheat",
+      "ko": "대두, 밀"
+    }
+  },
+  {
+    "id": "tamari-200",
+    "slug": "tamari-shoyu",
+    "type": "tamari",
+    "capacity": "200ml",
+    "price": {
+      "ja": "¥950",
+      "en": "$9.50",
+      "ko": "₩12,000"
+    },
+    "priceNumeric": 950,
+    "name": {
+      "ja": "たまり醤油",
+      "en": "Tamari Soy Sauce",
+      "ko": "다마리 간장"
+    },
+    "description": {
+      "ja": "大豆のみで仕込んだ濃厚なたまり醤油。とろみと深い旨味が特徴で、照り焼きや煮込み料理に美しいツヤを与えます。",
+      "en": "Rich tamari soy sauce brewed only from soybeans. Features thickness and deep umami, giving beautiful glaze to teriyaki and stewed dishes.",
+      "ko": "대두만으로 담근 진한 다마리 간장. 걸쭉함과 깊은 감칠맛이 특징이며 데리야키나 조림 요리에 아름다운 윤기를 줍니다."
+    },
+    "ingredients": {
+      "ja": "大豆（国産）、食塩",
+      "en": "Soybeans (domestic), Salt",
+      "ko": "대두 (국산), 소금"
+    },
+    "allergens": {
+      "ja": "大豆",
+      "en": "Soybeans",
+      "ko": "대두"
+    }
+  },
+  {
+    "id": "tamari-500",
+    "slug": "tamari-shoyu",
+    "type": "tamari",
+    "capacity": "500ml",
+    "price": {
+      "ja": "¥2,200",
+      "en": "$22.00",
+      "ko": "₩27,000"
+    },
+    "priceNumeric": 2200,
+    "name": {
+      "ja": "たまり醤油",
+      "en": "Tamari Soy Sauce",
+      "ko": "다마리 간장"
+    },
+    "description": {
+      "ja": "大豆のみで仕込んだ濃厚なたまり醤油。とろみと深い旨味が特徴で、照り焼きや煮込み料理に美しいツヤを与えます。",
+      "en": "Rich tamari soy sauce brewed only from soybeans. Features thickness and deep umami, giving beautiful glaze to teriyaki and stewed dishes.",
+      "ko": "대두만으로 담근 진한 다마리 간장. 걸쭉함과 깊은 감칠맛이 특징이며 데리야키나 조림 요리에 아름다운 윤기를 줍니다."
+    },
+    "ingredients": {
+      "ja": "大豆（国産）、食塩",
+      "en": "Soybeans (domestic), Salt",
+      "ko": "대두 (국산), 소금"
+    },
+    "allergens": {
+      "ja": "大豆",
+      "en": "Soybeans",
+      "ko": "대두"
+    }
+  }
+]

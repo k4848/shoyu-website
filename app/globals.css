@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-shoyu-cream text-shoyu-brown;
+  }
+}
+
+@layer components {
+  .container-custom {
+    @apply max-w-7xl mx-auto px-4 sm:px-6 lg:px-8;
+  }
+  
+  .heading-ja {
+    @apply text-3xl md:text-4xl lg:text-5xl font-serif font-bold mb-6;
+  }
+  
+  .btn-primary {
+    @apply bg-shoyu-brown text-white px-6 py-3 rounded hover:bg-shoyu-light transition-colors duration-300;
+  }
+  
+  .btn-outline {
+    @apply border-2 border-shoyu-brown text-shoyu-brown px-6 py-3 rounded hover:bg-shoyu-brown hover:text-white transition-colors duration-300;
+  }
+  
+  .card {
+    @apply bg-white rounded-lg shadow-lg overflow-hidden;
+  }
+}

@@ -1,0 +1,503 @@
+{
+  "ja": {
+    "common": {
+      "home": "ホーム",
+      "products": "商品一覧",
+      "about": "会社紹介",
+      "history": "歴史",
+      "stores": "店舗案内",
+      "contact": "お問い合わせ",
+      "learnMore": "詳しく見る",
+      "backToTop": "トップへ戻る",
+      "allProducts": "全ての商品を見る",
+      "backToProducts": "商品一覧へ戻る"
+    },
+    "home": {
+      "hero": {
+        "title": "伝統の味を、次世代へ",
+        "subtitle": "1896年創業。130年続く醤油づくりの技と心",
+        "cta": "商品を見る"
+      },
+      "intro": {
+        "title": "こだわりの醤油づくり",
+        "description": "厳選された国産大豆と小麦、天然塩を使用し、伝統的な木桶仕込みで丁寧に醸造しています。時間をかけてゆっくりと熟成させることで、深い味わいと豊かな香りが生まれます。"
+      },
+      "features": [
+        {
+          "title": "伝統製法",
+          "description": "130年受け継がれてきた木桶仕込みの製法"
+        },
+        {
+          "title": "厳選素材",
+          "description": "国産大豆・小麦・天然塩のみを使用"
+        },
+        {
+          "title": "職人の技",
+          "description": "熟練の蔵人が一つ一つ丁寧に仕込む"
+        }
+      ]
+    },
+    "products": {
+      "title": "商品一覧",
+      "description": "伝統の味を守り続ける、こだわりの醤油ラインナップ",
+      "viewDetail": "詳細を見る",
+      "price": "価格",
+      "capacity": "容量",
+      "addToCart": "カートに追加",
+      "productInfo": "商品情報",
+      "ingredients": "原材料",
+      "allergens": "アレルゲン",
+      "storage": "保存方法",
+      "storageInfo": "直射日光を避け、常温で保存してください。開封後は冷蔵庫で保存し、お早めにお召し上がりください。",
+      "relatedProducts": "関連商品"
+    },
+    "about": {
+      "title": "会社紹介",
+      "intro": "私たちは1896年の創業以来、伝統的な醤油づくりを守り続けています。",
+      "philosophy": {
+        "title": "私たちの想い",
+        "content": "「本物の味を、次世代へ」をモットーに、添加物を使わず、時間をかけて丁寧に醸造することにこだわっています。木桶仕込みの伝統製法を守りながらも、時代に合わせた新しい商品開発にも挑戦しています。"
+      },
+      "commitment": {
+        "title": "品質へのこだわり",
+        "content": "国産の厳選された大豆と小麦、ミネラル豊富な天然塩を使用し、添加物は一切使用していません。熟練の蔵人が毎日麹の状態を確認し、最適な環境で発酵・熟成させています。"
+      },
+      "companyInfo": {
+        "title": "会社概要",
+        "name": "会社名",
+        "nameValue": "株式会社 伝統醤油",
+        "established": "創業",
+        "establishedValue": "1896年（明治29年）",
+        "representative": "代表者",
+        "representativeValue": "代表取締役社長 山田太郎",
+        "address": "所在地",
+        "addressValue": "〒123-4567 東京都港区芝公園1-2-3",
+        "business": "事業内容",
+        "businessValue": "醤油・調味料の製造販売"
+      }
+    },
+    "history": {
+      "title": "歴史",
+      "subtitle": "130年続く伝統の醤油づくり",
+      "intro": "1896年の創業から現在まで、私たちは伝統的な醤油づくりを守り続けてきました。",
+      "timeline": [
+        {
+          "year": "1896年",
+          "title": "創業",
+          "description": "初代・山田一郎が東京・芝にて醤油醸造を開始。木桶仕込みの伝統製法で地域の人々に愛される醤油を提供"
+        },
+        {
+          "year": "1920年",
+          "title": "事業拡大",
+          "description": "二代目・山田次郎が事業を継承。製造設備を拡張し、東京近郊への販路を拡大"
+        },
+        {
+          "year": "1950年",
+          "title": "戦後の復興",
+          "description": "戦後の復興期に、伝統製法を守りながら生産体制を再構築。品質重視の姿勢が評価される"
+        },
+        {
+          "year": "1980年",
+          "title": "三代目就任",
+          "description": "三代目・山田三郎が代表に就任。伝統を守りながら、新商品開発にも着手"
+        },
+        {
+          "year": "2000年",
+          "title": "認証取得",
+          "description": "有機JAS認証を取得。環境に配慮した醤油づくりを実践"
+        },
+        {
+          "year": "2020年",
+          "title": "四代目就任",
+          "description": "四代目・山田太郎が代表に就任。伝統の技を次世代へ継承しながら、オンライン販売を開始"
+        }
+      ]
+    },
+    "stores": {
+      "title": "店舗案内",
+      "description": "直営店舗で実際に商品を手に取ってご覧いただけます",
+      "storeList": [
+        {
+          "name": "本社・工場",
+          "address": "〒123-4567 東京都港区芝公園1-2-3",
+          "hours": "9:00-17:00（土日祝休み）",
+          "phone": "03-1234-5678",
+          "description": "工場見学も承っております（要予約）"
+        },
+        {
+          "name": "直売店（銀座店）",
+          "address": "〒104-0061 東京都中央区銀座5-6-7",
+          "hours": "10:00-19:00（年中無休）",
+          "phone": "03-2345-6789",
+          "description": "全商品をお試しいただけます"
+        },
+        {
+          "name": "直売店（横浜店）",
+          "address": "〒220-0011 神奈川県横浜市西区高島2-3-4",
+          "hours": "10:00-20:00（年中無休）",
+          "phone": "045-123-4567",
+          "description": "駅直結で便利です"
+        }
+      ],
+      "accessTitle": "アクセス",
+      "hoursTitle": "営業時間",
+      "phoneTitle": "電話番号"
+    },
+    "contact": {
+      "title": "お問い合わせ",
+      "description": "ご質問・ご意見などお気軽にお問い合わせください",
+      "form": {
+        "name": "お名前",
+        "namePlaceholder": "山田太郎",
+        "email": "メールアドレス",
+        "emailPlaceholder": "example@email.com",
+        "subject": "件名",
+        "subjectPlaceholder": "お問い合わせ内容の件名",
+        "message": "お問い合わせ内容",
+        "messagePlaceholder": "お問い合わせ内容をご記入ください",
+        "submit": "送信する"
+      },
+      "info": {
+        "title": "お問い合わせ先",
+        "address": "〒123-4567 東京都港区芝公園1-2-3",
+        "phone": "03-1234-5678",
+        "email": "info@shoyu-traditional.jp",
+        "hours": "営業時間：9:00-17:00（土日祝休み）"
+      }
+    }
+  },
+  "en": {
+    "common": {
+      "home": "Home",
+      "products": "Products",
+      "about": "About",
+      "history": "History",
+      "stores": "Stores",
+      "contact": "Contact",
+      "learnMore": "Learn More",
+      "backToTop": "Back to Top",
+      "allProducts": "View All Products",
+      "backToProducts": "Back to Products"
+    },
+    "home": {
+      "hero": {
+        "title": "Traditional Flavor for Future Generations",
+        "subtitle": "Established in 1896. 130 years of soy sauce craftsmanship",
+        "cta": "View Products"
+      },
+      "intro": {
+        "title": "Our Commitment to Soy Sauce Brewing",
+        "description": "Using carefully selected domestic soybeans, wheat, and natural salt, we brew our soy sauce using traditional wooden barrel methods. Slow aging over time creates deep flavors and rich aromas."
+      },
+      "features": [
+        {
+          "title": "Traditional Method",
+          "description": "Wooden barrel brewing method passed down for 130 years"
+        },
+        {
+          "title": "Selected Ingredients",
+          "description": "Only domestic soybeans, wheat, and natural salt"
+        },
+        {
+          "title": "Master Craftsmanship",
+          "description": "Expert brewers carefully prepare each batch"
+        }
+      ]
+    },
+    "products": {
+      "title": "Products",
+      "description": "Traditional soy sauce lineup preserving authentic flavors",
+      "viewDetail": "View Details",
+      "price": "Price",
+      "capacity": "Capacity",
+      "addToCart": "Add to Cart",
+      "productInfo": "Product Information",
+      "ingredients": "Ingredients",
+      "allergens": "Allergens",
+      "storage": "Storage",
+      "storageInfo": "Store at room temperature away from direct sunlight. Refrigerate after opening and use promptly.",
+      "relatedProducts": "Related Products"
+    },
+    "about": {
+      "title": "About Us",
+      "intro": "Since our establishment in 1896, we have continued to preserve traditional soy sauce brewing.",
+      "philosophy": {
+        "title": "Our Philosophy",
+        "content": "With the motto 'Authentic Flavor for Future Generations,' we focus on additive-free, time-intensive careful brewing. While preserving traditional wooden barrel brewing methods, we also challenge ourselves with new product development suited to modern times."
+      },
+      "commitment": {
+        "title": "Quality Commitment",
+        "content": "We use carefully selected domestic soybeans and wheat, and mineral-rich natural salt, with no additives. Expert brewers check the koji condition daily, fermenting and aging in optimal environments."
+      },
+      "companyInfo": {
+        "title": "Company Information",
+        "name": "Company Name",
+        "nameValue": "Traditional Shoyu Co., Ltd.",
+        "established": "Established",
+        "establishedValue": "1896 (Meiji 29)",
+        "representative": "Representative",
+        "representativeValue": "CEO Taro Yamada",
+        "address": "Address",
+        "addressValue": "1-2-3 Shiba-koen, Minato-ku, Tokyo 123-4567",
+        "business": "Business",
+        "businessValue": "Manufacturing and sales of soy sauce and seasonings"
+      }
+    },
+    "history": {
+      "title": "History",
+      "subtitle": "130 years of traditional soy sauce brewing",
+      "intro": "From our establishment in 1896 to the present, we have continued to preserve traditional soy sauce brewing.",
+      "timeline": [
+        {
+          "year": "1896",
+          "title": "Establishment",
+          "description": "Founder Ichiro Yamada started soy sauce brewing in Shiba, Tokyo. Provided beloved soy sauce to local communities using traditional wooden barrel methods"
+        },
+        {
+          "year": "1920",
+          "title": "Business Expansion",
+          "description": "Second generation Jiro Yamada took over the business. Expanded manufacturing facilities and distribution to the Tokyo metropolitan area"
+        },
+        {
+          "year": "1950",
+          "title": "Post-war Recovery",
+          "description": "During the post-war recovery period, rebuilt production system while preserving traditional methods. Quality-focused approach was highly regarded"
+        },
+        {
+          "year": "1980",
+          "title": "Third Generation",
+          "description": "Third generation Saburo Yamada became CEO. Started new product development while preserving tradition"
+        },
+        {
+          "year": "2000",
+          "title": "Certification",
+          "description": "Obtained organic JAS certification. Implemented environmentally conscious soy sauce brewing"
+        },
+        {
+          "year": "2020",
+          "title": "Fourth Generation",
+          "description": "Fourth generation Taro Yamada became CEO. Started online sales while passing traditional techniques to the next generation"
+        }
+      ]
+    },
+    "stores": {
+      "title": "Stores",
+      "description": "Visit our stores to see and try our products",
+      "storeList": [
+        {
+          "name": "Headquarters & Factory",
+          "address": "1-2-3 Shiba-koen, Minato-ku, Tokyo 123-4567",
+          "hours": "9:00-17:00 (Closed weekends and holidays)",
+          "phone": "03-1234-5678",
+          "description": "Factory tours available (reservation required)"
+        },
+        {
+          "name": "Direct Store (Ginza)",
+          "address": "5-6-7 Ginza, Chuo-ku, Tokyo 104-0061",
+          "hours": "10:00-19:00 (Open daily)",
+          "phone": "03-2345-6789",
+          "description": "Try all our products"
+        },
+        {
+          "name": "Direct Store (Yokohama)",
+          "address": "2-3-4 Takashima, Nishi-ku, Yokohama 220-0011",
+          "hours": "10:00-20:00 (Open daily)",
+          "phone": "045-123-4567",
+          "description": "Conveniently located at station"
+        }
+      ],
+      "accessTitle": "Access",
+      "hoursTitle": "Hours",
+      "phoneTitle": "Phone"
+    },
+    "contact": {
+      "title": "Contact",
+      "description": "Feel free to contact us with questions or feedback",
+      "form": {
+        "name": "Name",
+        "namePlaceholder": "John Doe",
+        "email": "Email",
+        "emailPlaceholder": "example@email.com",
+        "subject": "Subject",
+        "subjectPlaceholder": "Subject of your inquiry",
+        "message": "Message",
+        "messagePlaceholder": "Please enter your message",
+        "submit": "Send"
+      },
+      "info": {
+        "title": "Contact Information",
+        "address": "1-2-3 Shiba-koen, Minato-ku, Tokyo 123-4567",
+        "phone": "03-1234-5678",
+        "email": "info@shoyu-traditional.jp",
+        "hours": "Business Hours: 9:00-17:00 (Closed weekends and holidays)"
+      }
+    }
+  },
+  "ko": {
+    "common": {
+      "home": "홈",
+      "products": "제품",
+      "about": "회사 소개",
+      "history": "역사",
+      "stores": "매장 안내",
+      "contact": "문의",
+      "learnMore": "자세히 보기",
+      "backToTop": "맨 위로",
+      "allProducts": "모든 제품 보기",
+      "backToProducts": "제품 목록으로"
+    },
+    "home": {
+      "hero": {
+        "title": "전통의 맛을 다음 세대로",
+        "subtitle": "1896년 창업. 130년 이어온 간장 제조의 기술과 정성",
+        "cta": "제품 보기"
+      },
+      "intro": {
+        "title": "정성을 다한 간장 제조",
+        "description": "엄선된 국산 대두와 밀, 천연 소금을 사용하여 전통적인 나무통 제조법으로 정성스럽게 양조합니다. 시간을 들여 천천히 숙성시킴으로써 깊은 맛과 풍부한 향이 탄생합니다."
+      },
+      "features": [
+        {
+          "title": "전통 제법",
+          "description": "130년 전승된 나무통 양조 제법"
+        },
+        {
+          "title": "엄선된 재료",
+          "description": "국산 대두, 밀, 천연 소금만 사용"
+        },
+        {
+          "title": "장인의 기술",
+          "description": "숙련된 장인이 하나하나 정성껏 제조"
+        }
+      ]
+    },
+    "products": {
+      "title": "제품",
+      "description": "전통의 맛을 지키는 정성 어린 간장 라인업",
+      "viewDetail": "상세 보기",
+      "price": "가격",
+      "capacity": "용량",
+      "addToCart": "장바구니에 담기",
+      "productInfo": "제품 정보",
+      "ingredients": "원재료",
+      "allergens": "알레르겐",
+      "storage": "보관 방법",
+      "storageInfo": "직사광선을 피해 상온에서 보관하십시오. 개봉 후에는 냉장 보관하시고 빨리 드십시오.",
+      "relatedProducts": "관련 제품"
+    },
+    "about": {
+      "title": "회사 소개",
+      "intro": "저희는 1896년 창업 이래 전통적인 간장 제조를 지켜왔습니다.",
+      "philosophy": {
+        "title": "우리의 마음",
+        "content": "'진정한 맛을 다음 세대로'를 모토로, 첨가물을 사용하지 않고 시간을 들여 정성스럽게 양조하는 것을 고집합니다. 나무통 양조의 전통 제법을 지키면서도 시대에 맞는 새로운 제품 개발에도 도전하고 있습니다."
+      },
+      "commitment": {
+        "title": "품질에 대한 고집",
+        "content": "국산 엄선 대두와 밀, 미네랄이 풍부한 천연 소금을 사용하며 첨가물은 일체 사용하지 않습니다. 숙련된 장인이 매일 누룩 상태를 확인하고 최적의 환경에서 발효, 숙성시킵니다."
+      },
+      "companyInfo": {
+        "title": "회사 개요",
+        "name": "회사명",
+        "nameValue": "주식회사 전통간장",
+        "established": "창업",
+        "establishedValue": "1896년 (메이지 29년)",
+        "representative": "대표자",
+        "representativeValue": "대표이사 야마다 타로",
+        "address": "소재지",
+        "addressValue": "〒123-4567 도쿄도 미나토구 시바코엔 1-2-3",
+        "business": "사업 내용",
+        "businessValue": "간장 및 조미료 제조 판매"
+      }
+    },
+    "history": {
+      "title": "역사",
+      "subtitle": "130년 이어온 전통 간장 제조",
+      "intro": "1896년 창업부터 현재까지 저희는 전통적인 간장 제조를 지켜왔습니다.",
+      "timeline": [
+        {
+          "year": "1896년",
+          "title": "창업",
+          "description": "초대 야마다 이치로가 도쿄 시바에서 간장 양조를 시작. 나무통 양조의 전통 제법으로 지역 사람들에게 사랑받는 간장을 제공"
+        },
+        {
+          "year": "1920년",
+          "title": "사업 확대",
+          "description": "2대 야마다 지로가 사업을 계승. 제조 설비를 확장하고 도쿄 근교로 판로를 확대"
+        },
+        {
+          "year": "1950년",
+          "title": "전후 복구",
+          "description": "전후 복구기에 전통 제법을 지키면서 생산 체제를 재구축. 품질 중시 자세가 평가받음"
+        },
+        {
+          "year": "1980년",
+          "title": "3대 취임",
+          "description": "3대 야마다 사부로가 대표에 취임. 전통을 지키면서 새로운 제품 개발에 착수"
+        },
+        {
+          "year": "2000년",
+          "title": "인증 취득",
+          "description": "유기농 JAS 인증 취득. 환경을 고려한 간장 제조를 실천"
+        },
+        {
+          "year": "2020년",
+          "title": "4대 취임",
+          "description": "4대 야마다 타로가 대표에 취임. 전통 기술을 다음 세대로 계승하면서 온라인 판매를 시작"
+        }
+      ]
+    },
+    "stores": {
+      "title": "매장 안내",
+      "description": "직영 매장에서 실제 제품을 보실 수 있습니다",
+      "storeList": [
+        {
+          "name": "본사 및 공장",
+          "address": "〒123-4567 도쿄도 미나토구 시바코엔 1-2-3",
+          "hours": "9:00-17:00 (주말 및 공휴일 휴무)",
+          "phone": "03-1234-5678",
+          "description": "공장 견학도 가능합니다 (예약 필요)"
+        },
+        {
+          "name": "직판점 (긴자점)",
+          "address": "〒104-0061 도쿄도 주오구 긴자 5-6-7",
+          "hours": "10:00-19:00 (연중무휴)",
+          "phone": "03-2345-6789",
+          "description": "모든 제품을 시식하실 수 있습니다"
+        },
+        {
+          "name": "직판점 (요코하마점)",
+          "address": "〒220-0011 가나가와현 요코하마시 니시구 타카시마 2-3-4",
+          "hours": "10:00-20:00 (연중무휴)",
+          "phone": "045-123-4567",
+          "description": "역 직결로 편리합니다"
+        }
+      ],
+      "accessTitle": "오시는 길",
+      "hoursTitle": "영업 시간",
+      "phoneTitle": "전화번호"
+    },
+    "contact": {
+      "title": "문의",
+      "description": "궁금하신 점이나 의견을 편하게 문의해주세요",
+      "form": {
+        "name": "이름",
+        "namePlaceholder": "홍길동",
+        "email": "이메일",
+        "emailPlaceholder": "example@email.com",
+        "subject": "제목",
+        "subjectPlaceholder": "문의 내용 제목",
+        "message": "문의 내용",
+        "messagePlaceholder": "문의 내용을 입력해주세요",
+        "submit": "보내기"
+      },
+      "info": {
+        "title": "문의처",
+        "address": "〒123-4567 도쿄도 미나토구 시바코엔 1-2-3",
+        "phone": "03-1234-5678",
+        "email": "info@shoyu-traditional.jp",
+        "hours": "영업 시간: 9:00-17:00 (주말 및 공휴일 휴무)"
+      }
+    }
+  }
+}
