@@ -28,3 +28,11 @@ export default function ProductsPage({ params }) {
     </div>
   );
 }
+
+export function generateStaticParams() {
+  return [
+    { lang: 'ja' },
+    { lang: 'en' },
+    { lang: 'ko' },
+  ];
+}

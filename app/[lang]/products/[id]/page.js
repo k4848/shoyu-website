@@ -131,3 +131,19 @@ export default function ProductDetailPage({ params }) {
     </div>
   );
 }
+
+export function generateStaticParams() {
+  const langs = ['ja', 'en', 'ko'];
+  const params = [];
+
+  for (const lang of langs) {
+    for (const product of products) {
+      params.push({
+        lang: lang,
+        id: product.id,
+      });
+    }
+  }
+
+  return params;
+}

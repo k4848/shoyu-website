@@ -72,3 +72,11 @@ export default function HistoryPage({ params }) {
     </div>
   );
 }
+
+export function generateStaticParams() {
+  return [
+    { lang: 'ja' },
+    { lang: 'en' },
+    { lang: 'ko' },
+  ];
+}

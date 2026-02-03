@@ -87,3 +87,11 @@ export default function StoresPage({ params }) {
     </div>
   );
 }
+
+export function generateStaticParams() {
+  return [
+    { lang: 'ja' },
+    { lang: 'en' },
+    { lang: 'ko' },
+  ];
+}
